@@ -8,3 +8,6 @@ pwd: whatuhave
 API docmentation: https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-post
 
 API Keys are already in the Collections
+
+
+Note: there is limit of 10 boards. please delete Boards not in use
