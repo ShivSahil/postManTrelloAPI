@@ -1,5 +1,5 @@
-# postManTrelloAPI
-## Please refer following doc to understand JAVA SCRIPT used
+
+# Please refer following doc to understand JAVA SCRIPT used
 
 [https://docs.google.com/document/d/1mieVDJy4xWCRQiH0vNcKowWKBLNNfye6mWuINbzd5jc/edit?usp=sharing](https://docs.google.com/document/d/1mieVDJy4xWCRQiH0vNcKowWKBLNNfye6mWuINbzd5jc/edit?usp=sharing)
 
